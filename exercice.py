@@ -6,7 +6,8 @@ import math
 
 
 def average(a: float, b: float, c: float) -> float:
-    return 0.0
+    a, b, c = 2.1, 4.3, 6.5
+   return 0.0
 
 
 def to_radians(angle_degs: float, angle_mins: float, angle_secs: float) -> float:
